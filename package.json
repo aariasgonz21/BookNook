@@ -4,7 +4,7 @@
   "description": "This is a website for selling/buying books from people nearby.  You have the option to meet in person and save money on postage or browse ..... blh blah blah",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node_modules/.bin/nodemon -L app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
