@@ -1,6 +1,7 @@
 {
   "name": "booknook",
   "version": "1.0.0",
+  "private": true,
   "description": "This is a website for selling/buying books from people nearby.  You have the option to meet in person and save money on postage or browse ..... blh blah blah",
   "main": "index.js",
   "scripts": {
