@@ -1,0 +1,62 @@
+html, body {
+	height: 100%;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+ 	background-size: cover;
+}
+
+#homeBody {
+	background: url("../../images/girlReading.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+ 	background-size: cover;
+}
+
+.modal-title {
+	text-align: center;
+}
+
+
+.user {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background: rgb(208, 209, 204);
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.leftSection {
+	width: 20%;
+	height:100%;
+	border-right: 2px solid black;
+	float:left;
+}
+
+.leftSection p {
+	text-align: center;
+}
+
+.rightSection {
+	width:80%;
+	float: right;
+	height: 100%;
+}
+
+.buttons {
+	margin: 10px 10px 0 10px;
+}
+
+.btn-primary {
+	float: right;
+}
+
+li {
+	padding-right: 10px;
+}
