@@ -1,17 +1,17 @@
 {
   "development": {
-    "username": "node",
-    "password": "ctp2016",
-    "database": "blog",
-    "host": "127.0.0.1", //localhost
+    "username": "db_user",
+    "password": "db_pass",
+    "database": "booknook_development",
+    "host": "127.0.0.1", 
     "dialect": "postgres"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
+    "username": "db_user",
+    "password": "db_pass",
+    "database": "booknook_test",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "production": {
     "username": "root",
