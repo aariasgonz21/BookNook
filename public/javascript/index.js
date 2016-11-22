@@ -8,11 +8,7 @@ $( document ).ready(function() {
    		$('#signupModal').modal('show');
    		$('#loginModal').modal('hide');
    });
-   // $('#signupButton').click(function(){
-   // 		$('#signupModal').modal('show');
-   // });
-   // $('#loginButton').click(function(){
 
-   // });
+   
  
 });
